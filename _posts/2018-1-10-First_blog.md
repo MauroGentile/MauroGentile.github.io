@@ -32,8 +32,6 @@ After data cleansing to drop duplicates, to treat outliers, to manage counter re
 
 ***
 
-`*Figure 1: top 10 trafficked MTA NYC subway stations from 06/17/17 to 07/14/17*`
-
 ![alt text](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/top%2010%20stations.png "Top 10 traffiked MTA stations in NYC")
 
 ***
@@ -71,15 +69,11 @@ Regardless the objective, by analysing the MTA data, not unsurprisingly, we soon
 
 ***
 
-`*Figure 2: Average daily traffic system-wide*`
-
 ![alt text](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/by%20day.png "Flow by day")
 
 ***
 
 ***
-
-`*Figure 3: Average hourly traffic system-wide*`
 
 ![alt text](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/by%20hour.png
  "Flow by hour period")
@@ -100,11 +94,22 @@ As first case, we will focus 116th ST station, which is where Columbia universit
 As shown in the below graph, the flow of people is concentrated in the mid-week days and in the late afternoons. This is when we should intensify the marketing activity, dimensioning the team accordingly.
 
 
+***
+
+![alt text](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/116%20th%20over%20all.png "116th overall flow")
+ 
+***
 
 
 ## CASE STUDY 2: Reaching potential contributors: 86th ST (LINE:456 station)
 From the fundraising list of stations, the 86th ST will be presented as case study. As shown in the below figure, also in this case the traffic is very dependent on day of the week and time of the day.
 
+
+***
+
+![alt-text-1](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/86%20ca%201.png "title-1") ![alt-text-2](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/86%20ca%202.png "title-2")
+ 
+***
 
 
 However this station has a further complexity: while the 116th station only have 1 single control area, i.e. one group of turnstiles through which all the flow must converge regardless the direction, in the 116th case there are 2 control areas, one for each direction of the subway. We consider this is of crucial importance since the 2 control areas leads to different entries and exits of the subway. You need to know which one you want to focus the activity depending on the week day and the time of the day given that, as shown in the below figures, the 2 control areas have a different time distribution of the flow. 
