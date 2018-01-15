@@ -60,23 +60,19 @@ We ended up with the following list:
 
 
 ## Objective 3: reaching potential contributors to the organization 
-We looked at the census data and picked up zip codes of the wealthiest areas in NYC and tech companies, mapping them in the below figure
+We looked at the census data and picked up zip codes of the wealthiest areas in NYC and tech companies. We than choose a few for fundraising objective containining, among others the following:
+
+*	86th St.
+*	Franklin St.
+*	Chambers St.
+
+Obviously, the 3 above-mentioned objectives overlap each other meaning that, for instance, while mainly looking for building awareness, marketing activity in heavily trafficked MTA stations can also foster participation to the gala and possibly fundraising. In addition to that, often stations from different lists belong are very close each other as shown in the map below
 
 ***
 
 ![alt text](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/Picture1.png "Tech and uni")
 
 ***
-
- 
-According to the map, a selection of the chosen stations for fundraising objective contains the following stations:
-
-*	86th St.
-*	Franklin St.
-*	Chambers St.
-
-Obviously, the 3 above-mentioned objectives overlap each other meaning that, for instance, while mainly looking for building awareness, marketing activity in heavily trafficked MTA stations can also foster participation to the gala and possibly fundraising.
-
 
 # Dimensioning the activity plan on time distribution of flow
 Regardless the objective, by analysing the MTA data, not unsurprisingly, we soon discovered that the flow of people transiting is very much dependent on both the day of the week and the hour range in the day as shown in the below figures.
