@@ -12,7 +12,11 @@ My team and I distinguished the project goal in three main objectives:
 2. getting attendees  
 3. reaching potential contributors to the organization
 
-We have looked at the MTA turnstile data combined with other data sources, like census data, with the purpose of providing WYWT marketing team with insights to plan street team activity focused on participation in the gala in the short term, and awareness and fundraising in the long term.
+In order to maximize the effectiveness of a marketing plan, it is important to frame the activity according to:
+1)	The strategic objective to reach the most appropriate target
+2)	Maximum exposure to targets
+
+We therefore have looked at the MTA turnstile data combined with other data sources, like census data, with the purpose of providing WYWT marketing team with insights to plan street team activity focused on participation in the gala in the short term, and awareness and fundraising in the long term.
 
 We ended up recommending different lists of MTA stations where to concentrate the marketing effort, depending on strategic goal.
 
@@ -152,17 +156,10 @@ The first figure amonge the below ones represents the overall flow in the statio
 ***
 
 
-# Conclusions and next steps
+# Next steps
 
-In order to maximize the effectiveness of a marketing plan, it is important to frame the activity 
-according to:
-1)	The strategic objective to reach the most appropriate target
-2)	Look for maximum exposure, basing the activity on flow data
 
-As such, we looked for 3 different lists of MTA stations, one for each of our strategic objective.
-For each of the selected station we then analysed the time distribution of the flow in order to find out the days of the week and time of the day in which the flow was maximum. This analysis was taken at the lowest space granularity possible, i.e. at the control area level demonstrating that the follow is not the same across them. This is important since different control area are 
-
-As for the next steps, we suggest bringing the activity one step further, designing a marketing plan and dimensioning both the activity and the team based on control area heatmaps.
+We suggest bringing the activity one step further, designing a marketing plan and dimensioning both the activity and the team based on control area heatmaps.
 
 We would also recommend increasing size of data to broaden time series making more robust from a statistical stand point
 
