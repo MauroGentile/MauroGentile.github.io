@@ -62,6 +62,11 @@ We ended up with the following list:
 ## Objective 3: reaching potential contributors to the organization 
 We looked at the census data and picked up zip codes of the wealthiest areas in NYC and tech companies, mapping them in the below figure
 
+***
+
+![alt text](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/Picture1.png "Tech and uni")
+
+***
 
  
 According to the map, a selection of the chosen stations for fundraising objective contains the following stations:
