@@ -1,9 +1,8 @@
 ---
 layout: post
-title: This is my first post!
+title: Project Benson, first assigment durning Data Science bootcamp at Metis
 ---
 
-Hello this is mauro
 
 
 
