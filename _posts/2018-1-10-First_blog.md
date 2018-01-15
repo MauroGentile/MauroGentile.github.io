@@ -124,7 +124,7 @@ From the fundraising list of stations, the 86th ST will be presented as case stu
 ***
 
 
-However, this station has a further complexity: while the 116th station only have 1 single control area, i.e. one group of turnstiles through which all the flow must converge regardless the direction, in the 116th case there are 2 control areas, one for each direction of the subway. We believe this is of crucial importance since the 2 control areas leads to different entries and exits of the subway. You need to know which one you want to focus the activity depending on the week day and the time of the day given that, as shown in the below figures, the 2 control areas have a different time distribution of the flow. 
+However, this station has a further complexity: while the 116th station only have 1 single control area, i.e. one group of turnstiles through which all the flow must converge regardless the direction, in the 116th case there are 2 control areas, one for each direction of the subway. We believe this is of crucial importance to understand where to place the street team since the 2 control areas leads to different entries and exits of the subway and, as shown in the below figures, the 2 control areas have a different time distribution of the passengers flow. 
 
 ***
 
