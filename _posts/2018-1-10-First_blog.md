@@ -26,10 +26,12 @@ After data cleansing to drop duplicates, to treat outliers, to manage counter re
 
 
 
+&nbsp 
+&nbsp 
 
 ***
 ![alt text](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/top%2010%20stations.png "Top 10 traffiked MTA stations in NYC")
-Figure 1: top 10 trafficked MTA NYC subway stations from 06/17/17 to 07/14/17
+`Figure 1: top 10 trafficked MTA NYC subway stations from 06/17/17 to 07/14/17`
 ***
 
 
