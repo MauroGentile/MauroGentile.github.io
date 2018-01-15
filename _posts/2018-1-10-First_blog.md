@@ -60,13 +60,15 @@ We ended up with the following list:
 
 
 ## Objective 3: reaching potential contributors to the organization 
-For fundraising objective we looked at the census data and picked up zip codes of the wealthiest areas in NYC and tech companies. We thenn choose those station located in areas with the highest average income including, among others the following:
+For the fundraising objective, we looked at the census data and picked up zip codes of the wealthiest areas in NYC and tech companies. We then choose those station located in areas with the highest average income including, among others the following:
 
 *	86th St.
 *	Franklin St.
 *	Chambers St.
 
-Obviously, the 3 above-mentioned objectives overlap each other meaning that, for instance, while mainly looking for building awareness, marketing activity in heavily trafficked MTA stations can also foster participation to the gala and possibly fundraising. In addition to that, often stations from different lists belong are very close each other as shown in the map below
+
+
+Having said that, the 3 above-mentioned objectives overlap each other meaning that, for instance, while mainly looking for building awareness, marketing activity in heavily trafficked MTA stations can also foster participation to the gala and possibly fundraising. In addition to that, often stations from different lists belong are very close each other as shown in the map below
 
 ***
 
