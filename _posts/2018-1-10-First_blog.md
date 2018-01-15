@@ -24,7 +24,9 @@ Assuming that the Gala takes place at mid-July 2018, we analysed 2017 MTA data o
 
 After data cleansing to drop duplicates, to treat outliers, to manage counter resets, to deal with inconsistencies in line names, we built a list of the top 10 stations with highest traffic as shown in the below figure.
 
-FIGURA TOP 10
+
+![alt text](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/top%2010%20stations.png "Top 10 traffiked MTA stations in NYC")
+
 
 An awareness building activity should cover a large period in time. 
 
