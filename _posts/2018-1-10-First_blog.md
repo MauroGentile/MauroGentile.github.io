@@ -74,7 +74,7 @@ Obviously, the 3 above-mentioned objectives overlap each other meaning that, for
 
 
 # Dimensioning the activity plan on time distribution of flow
-Regardless the objective, by analysing the MTA data, not unsurprisingly, we soon discovered that the flow of people transiting is very much dependent on both the day of the week and the hour range in the day as shown in Figure 2 and 3
+Regardless the objective, by analysing the MTA data, not unsurprisingly, we soon discovered that the flow of people transiting is very much dependent on both the day of the week and the hour range in the day as shown in the below figures.
 
 ***
 
