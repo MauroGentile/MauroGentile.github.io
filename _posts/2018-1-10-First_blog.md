@@ -8,7 +8,7 @@ title: Project Benson, first assigment during Data Science bootcamp at Metis
 As first assignment at Metis, we developed a set of recommendations for Women Yes Woman Tech (WYWT) organization for the Gala event organized for the month of July 2018.
 
 My team and I distinguished the project goal in three main objectives:
-1. build awareness 
+1. building awareness 
 2. getting attendees for Gala 
 3. reaching potential contributors to the organization.
 
