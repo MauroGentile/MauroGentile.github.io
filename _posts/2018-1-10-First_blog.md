@@ -68,7 +68,7 @@ For the fundraising objective, we looked at the census data and picked up zip co
 
 
 
-Having said that, the 3 above-mentioned objectives overlap each other meaning that, for instance, while mainly looking for building awareness, marketing activity in heavily trafficked MTA stations can also foster participation to the gala and possibly fundraising. In addition to that, often stations from different lists belong are very close each other as shown in the map below
+The 3 above-mentioned objectives overlap each other meaning that, for instance, while mainly looking for building awareness, marketing activity in heavily trafficked MTA stations can also foster participation to the gala and possibly bring fundraising. In addition to that, stations from different lists are often very close each other as shown in the map below
 
 ***
 
