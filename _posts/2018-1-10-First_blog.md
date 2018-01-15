@@ -16,9 +16,7 @@ In order to maximize the effectiveness of a marketing plan, it is important to f
 1)	The strategic objective to reach the most appropriate target
 2)	Maximum exposure to targets
 
-We therefore have looked at the MTA turnstile data combined with other data sources, like census data, with the purpose of providing WYWT marketing team with insights to plan street team activity focused on participation in the gala in the short term, and awareness and fundraising in the long term.
-
-We ended up recommending different lists of MTA stations where to concentrate the marketing effort, depending on strategic goal.
+We therefore have looked at the MTA turnstile data combined with other data sources, like census data, with the purpose of building different lists of MTA stations where to concentrate the marketing effort, depending on strategic goal.
 
 Once defined where to implement the street activity, we gave to the analysis a step further to understand when to do it in order to make it as effective as possible.
 
