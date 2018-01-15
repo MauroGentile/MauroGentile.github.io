@@ -8,8 +8,8 @@ title: Project Benson, first assigment during Data Science bootcamp at Metis
 As first assignment at Metis, we developed a set of recommendations for Women Yes Woman Tech (WYWT) organization for the Gala event organized for the month of July 2018.
 
 My team and I distinguished the project goal in three main objectives:
-1. getting attendees for Gala 
-2. build awareness 
+1. build awareness 
+2. getting attendees for Gala 
 3. reaching potential contributors to the organization.
 
 We have looked at the MTA turnstile data combined with other data sources, like census data, with the purpose of providing WYWT marketing team with insights to plan street team activity focused on participation in the gala in the short term, and awareness and fundraising in the long term.
@@ -17,7 +17,7 @@ We have looked at the MTA turnstile data combined with other data sources, like 
 We ended up recommending different lists of MTA stations where to concentrate the marketing effort, depending on strategic goal
 
 
-# Obective 1: building awareness
+## Obective 1: building awareness
 To  build awareness, we choose the ten most trafficked MTA stations as places where to develop the street marketing activity. 
  
 Assuming that the Gala takes place at mid-July 2018, we analysed 2017 MTA data on a 4 weeks period, from mid-June to mid-July to take seasonality into consideration. 
@@ -25,12 +25,18 @@ Assuming that the Gala takes place at mid-July 2018, we analysed 2017 MTA data o
 After data cleansing to drop duplicates, to treat outliers, to manage counter resets, to deal with inconsistencies in line names, we built a list of the top 10 stations with highest traffic as shown in the below figure.
 
 
+
+
+
 ![alt text](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/top%2010%20stations.png "Top 10 traffiked MTA stations in NYC")
 
 
-An awareness building activity should cover a large period in time. 
 
-FOSTERING PARTECIPATION
+
+
+
+
+## Obective 2: getting attendees for Gala 
 To foster the participation, we thought that universities were the places where to concentrate our effort for the higher probability to find tech-savvy and tech-passionate people.
 We ended up with the following list:
 *	116th St. Columbia
@@ -40,7 +46,7 @@ We ended up with the following list:
 
 
 
-LOOKING FOR FUNDRISING
+## Obective 2: reaching potential contributors to the organization 
 We looked at the census data and picked up zip codes of the wealthiest areas in NYC and tech companies, mapping them in the below figure
 
 
@@ -52,17 +58,21 @@ According to the map, a selection of the chosen stations for fundraising objecti
 •	Chambers St.
 
 
-
 Obviously, the 3 above-mentioned objectives overlap each other meaning that, for instance, while mainly looking for building awareness, marketing activity in heavily trafficked MTA stations can also foster participation to the gala and possibly fundraising.
 
 
-TIME BASED PLANS
+# Dimensioning the activity plan on time distribution of flow
 Regardless the objective, by analysing the MTA data, not unsurprisingly, we soon discovered that the flow of people transiting is very much dependent on both the day of the week and the hour range in the day as shown in the below 2 figures
 
+ 
+ 
+![alt text](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/by%20day.png "Flow by day")
 
-DAY
 
-HOUR
+
+![alt text](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/by%20hour.png
+ "Flow by hour period")
+
 
 As such, in order to optimize the marketing effort, both the activity time plan and team dimensioning should be based on weekday/hour flow data.
 
@@ -70,8 +80,10 @@ To better show the idea, in the following it we will go through 3 case studies, 
 
 
 
-CASE STUDIES
-As first case, we will focus 116th ST station, which is where Columbia university is located. This is representative of the list of stations to foster the gala participation.
+# Case studies
+
+## Maximizing Participation – 116th St. Case Study
+As first case, we will focus 116th ST station, which is where Columbia university is located, as an example of station where to where to pursue gala participation.
 
 As shown in the below graph, the flow of people is concentrated in the mid-week days and in the late afternoons. This is when we should intensify the marketing activity, dimensioning the team accordingly.
 
