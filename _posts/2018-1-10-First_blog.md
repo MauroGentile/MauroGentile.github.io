@@ -137,9 +137,7 @@ As third case study, 42 ST Port Auth is presented.
 This is a huge commuting hub which gives us the opportunity to reach many people and to throw a window also outside the city. The ideal situation to have exposure to a huge number of people, so gaining awareness.
 
 Also in cases of huge hubs like this, traffic is really dependent not only on time and day but also on control areas.
-
-
-In the following figures, to keep the presentation neat, we just reported the flow through 2 of the 5 possible control areas at the station.
+The below figure represent the overall flow in the station and the flow through 2 out of the 5 possible control areas at the station. We preferred to show just 2 to keep the rpesentation neat.
 
 ***
 
