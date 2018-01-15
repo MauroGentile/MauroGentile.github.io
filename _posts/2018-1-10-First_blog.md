@@ -60,7 +60,7 @@ We ended up with the following list:
 
 
 ## Objective 3: reaching potential contributors to the organization 
-We looked at the census data and picked up zip codes of the wealthiest areas in NYC and tech companies. We than choose a few for fundraising objective containing, among others the following:
+For fundraising objective we looked at the census data and picked up zip codes of the wealthiest areas in NYC and tech companies. We thenn choose those station located in areas with the highest average income including, among others the following:
 
 *	86th St.
 *	Franklin St.
