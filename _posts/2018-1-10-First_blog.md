@@ -101,7 +101,7 @@ To better show the idea, we will now go through case studies, one per each list 
 # Case studies
 
 ## CASE STUDY 1: Maximizing Participation – 116th St.
-As first case, we will focus 116th ST station, which is where Columbia university is located, as an example of station where to where to pursue gala participation.
+As first case, we will focus on 116th ST station, which is where Columbia university is located, as an example of station where to look for participants to the event.
 
 As shown in the below graph, the flow of people is concentrated in the mid-week days and in the late afternoons. This is when we should intensify the marketing activity, dimensioning the team accordingly.
 
@@ -114,7 +114,7 @@ As shown in the below graph, the flow of people is concentrated in the mid-week 
 
 
 ## CASE STUDY 2: Reaching potential contributors: 86th ST (LINE:456 station)
-From the fundraising list of stations, the 86th ST will be presented as case study. As shown in the below figure, also in this case the traffic is very dependent on day of the week and time of the day.
+From the fundraising list of stations, the 86th ST will be presented as case study as an example of station where to look for potential donors. As shown in the below figure, also in this case the traffic is very dependent on the day of the week and time of the day.
 
 
 ***
@@ -124,7 +124,7 @@ From the fundraising list of stations, the 86th ST will be presented as case stu
 ***
 
 
-However, this station has a further complexity: while the 116th station only have 1 single control area, i.e. one group of turnstiles through which all the flow must converge regardless the direction, in the 116th case there are 2 control areas, one for each direction of the subway. We consider this is of crucial importance since the 2 control areas leads to different entries and exits of the subway. You need to know which one you want to focus the activity depending on the week day and the time of the day given that, as shown in the below figures, the 2 control areas have a different time distribution of the flow. 
+However, this station has a further complexity: while the 116th station only have 1 single control area, i.e. one group of turnstiles through which all the flow must converge regardless the direction, in the 116th case there are 2 control areas, one for each direction of the subway. We believe this is of crucial importance since the 2 control areas leads to different entries and exits of the subway. You need to know which one you want to focus the activity depending on the week day and the time of the day given that, as shown in the below figures, the 2 control areas have a different time distribution of the flow. 
 
 
 ## CASE STUDY 3: Building awareness: 42 ST Port Auth 
