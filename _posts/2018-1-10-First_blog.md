@@ -3,39 +3,21 @@ layout: post
 title: Project Benson, first assigment during Data Science bootcamp at Metis
 ---
 
-As first assigment at Metis, we developed a set of reccomendations to Women Yes Woman Tech (WYWT) for the Gala event organized for the month of July 2018.
-
-My team and I distingished the project goal in three main objectives:
-1) getting attendees for Gala 
-2) build awareness 
-3) reaching potential contributors to the organization.
-
-We have looked at he MTA turnstile data combiend with other data sources like census data with the purpose of providing WYWT marketing team with insights focused on participation in the gala in the short term, and awareness and fundraising in the long term.
-
-We ended up reccomending different lists of MTA stations where to concentrate the marketing effort, 
-depending on strategic goal:
-1) AWARENESS. 
-Target: MTA station heavily trafficked 
-2) PARTECIPATION. 
-Target: stations close to university and/or tech companies
-3) FUNDRISING
-Target: stations in wealthy neighborhoods
-
-Of course these objectives overlaps. meaning that while mainily 
+# Project objectives
 
 As first assignment at Metis, we developed a set of recommendations for Women Yes Woman Tech (WYWT) organization for the Gala event organized for the month of July 2018.
 
 My team and I distinguished the project goal in three main objectives:
-1) getting attendees for Gala 
-2) build awareness 
-3) reaching potential contributors to the organization.
+1. getting attendees for Gala 
+2. build awareness 
+3. reaching potential contributors to the organization.
 
 We have looked at the MTA turnstile data combined with other data sources, like census data, with the purpose of providing WYWT marketing team with insights to plan street team activity focused on participation in the gala in the short term, and awareness and fundraising in the long term.
 
 We ended up recommending different lists of MTA stations where to concentrate the marketing effort, depending on strategic goal
 
 
-BUILDING AWARENESS
+# Obective 1: building awareness
 To  build awareness, we choose the ten most trafficked MTA stations as places where to develop the street marketing activity. 
  
 Assuming that the Gala takes place at mid-July 2018, we analysed 2017 MTA data on a 4 weeks period, from mid-June to mid-July to take seasonality into consideration. 
@@ -49,10 +31,10 @@ An awareness building activity should cover a large period in time.
 FOSTERING PARTECIPATION
 To foster the participation, we thought that universities were the places where to concentrate our effort for the higher probability to find tech-savvy and tech-passionate people.
 We ended up with the following list:
-•	116th St. Columbia
-•	8th St. NYU
-•	68th St - Hunter
-•	Astor Pl.
+*	116th St. Columbia
+*	8th St. NYU
+*	68th St - Hunter
+*	Astor Pl.
 
 
 
