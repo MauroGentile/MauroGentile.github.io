@@ -24,7 +24,7 @@ We also noticed that within the same station, turnstiles belonging to different 
 
 As a consequence, to maximize the exposure to the predefined targets, it is crucial to plan the team activity and dimensioning based on this data.
 
-In what follows, we first will have a look to the criteria used to build the 3 different lists of stations according to the strategic goal to achieve. We then analyse 1 station from each lists to show how to plan and dimension the team activity based on a non-uniform time distribution of flow thus making the effort more effective
+In what follows, we first will have a look to the criteria used to build the 3 different lists of stations according to the strategic goal to achieve. We then analyse 1 station from each list to show how to plan and dimension the team activity based on a non-uniform time distribution of flow thus making the effort more effective
 
 ## Objective 1: building awareness
 To build awareness, we choose the ten most trafficked MTA stations as places where to develop the street marketing activity. 
@@ -60,7 +60,7 @@ We ended up with the following list:
 
 
 ## Objective 3: reaching potential contributors to the organization 
-We looked at the census data and picked up zip codes of the wealthiest areas in NYC and tech companies. We than choose a few for fundraising objective containining, among others the following:
+We looked at the census data and picked up zip codes of the wealthiest areas in NYC and tech companies. We than choose a few for fundraising objective containing, among others the following:
 
 *	86th St.
 *	Franklin St.
@@ -92,7 +92,7 @@ Regardless the objective, by analysing the MTA data, not unsurprisingly, we soon
  
 In order to optimize the marketing effort, both the activity time plan and team dimensioning should be based on weekday/hour flow data.
 
-To better show the idea, in the following it we will go through 3 case studies, one per each objective. The idea is to replicate this analysis for each of the above-mentioned MTA stations.
+To better show the idea, we will now go through case studies, one per each list we built before. These are to be considered as show examples. The same analysis has to be replicated for each of the recommended MTA stations.
 
 
 
@@ -155,5 +155,6 @@ For each of the selected station we then analysed the time distribution of the f
 As for the next steps, we suggest bringing the activity one step further, designing a marketing plan and dimensioning both the activity and the team based on control area heatmaps.
 
 We would also recommend increasing size of data to broaden time series making more robust from a statistical stand point
+
 
 
