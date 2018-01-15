@@ -31,7 +31,7 @@ To build awareness, we choose the ten most trafficked MTA stations as places whe
  
 Assuming that the Gala takes place at mid-July 2018, we analysed 2017 MTA data on a 4 weeks period, from mid-June to mid-July to take seasonality into consideration. 
 
-After data cleansing aimed to treat duplicates, outliers and errors and to manage counter resets and inconsistencies, we built a list of the top 10 stations with highest traffic as shown in the below figure.
+After data cleansing aimed to treat duplicates, outliers and errors and to manage counter resets and inconsistencies, we built a list of the top 10 stations with highest traffic as shown in the figure below.
 
 
 
