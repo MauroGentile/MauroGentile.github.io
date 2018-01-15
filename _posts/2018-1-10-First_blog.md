@@ -20,9 +20,9 @@ We then looked at the time distribution of passengers flow at each single statio
 
 We also noticed that within the same station,turnstiles belonging to different control areas, which are generally associated with different bounds in the station, have a completely different time distribution of flow. 
 
-To maximize the exposure ot the predifined targets, it is crucial to plan the team activity and dimensioning based on this data.
+As a consequence, to maximize the exposure to the predifined targets, it is crucial to plan the team activity and dimensioning based on this data.
 
-In what follows, we first will hav a look to the criteria used to build the 3 different lists of stations according to the strategic goal to achieve. We than analyze 1 station from each group to show how to plan and dimension the team activity based on a non uniform time distribution of flow.
+In what follows, we first will have a look to the criteria used to build the 3 different lists of stations according to the strategic goal to achieve. We then analyze 1 station from each lists to show how to plan and dimension the team activity based on a non uniform time distribution of flow thus make the effort more effective
 
 ## Obective 1: building awareness
 To  build awareness, we choose the ten most trafficked MTA stations as places where to develop the street marketing activity. 
