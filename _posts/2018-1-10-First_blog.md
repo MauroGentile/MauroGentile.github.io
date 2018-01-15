@@ -32,9 +32,9 @@ After data cleansing to drop duplicates, to treat outliers, to manage counter re
 
 ***
 
-![alt text](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/top%2010%20stations.png "Top 10 traffiked MTA stations in NYC")
+`*Figure 1: top 10 trafficked MTA NYC subway stations from 06/17/17 to 07/14/17*`
 
-`Figure 1: top 10 trafficked MTA NYC subway stations from 06/17/17 to 07/14/17`
+![alt text](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/top%2010%20stations.png "Top 10 traffiked MTA stations in NYC")
 
 ***
 
@@ -59,28 +59,34 @@ We looked at the census data and picked up zip codes of the wealthiest areas in 
  
 According to the map, a selection of the chosen stations for fundraising objective contains the following stations:
 
-•	86th St.
-•	Franklin St.
-•	Chambers St.
-
+*	86th St.
+*	Franklin St.
+*	Chambers St.
 
 Obviously, the 3 above-mentioned objectives overlap each other meaning that, for instance, while mainly looking for building awareness, marketing activity in heavily trafficked MTA stations can also foster participation to the gala and possibly fundraising.
 
 
 # Dimensioning the activity plan on time distribution of flow
-Regardless the objective, by analysing the MTA data, not unsurprisingly, we soon discovered that the flow of people transiting is very much dependent on both the day of the week and the hour range in the day as shown in the below 2 figures
+Regardless the objective, by analysing the MTA data, not unsurprisingly, we soon discovered that the flow of people transiting is very much dependent on both the day of the week and the hour range in the day as shown in Figure 2 and 3
 
- 
- 
+***
+
+`*Figure 2: Average daily traffic system-wide*`
+
 ![alt text](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/by%20day.png "Flow by day")
 
+***
 
+***
+
+`*Figure 3: Average hourly traffic system-wide*`
 
 ![alt text](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/by%20hour.png
  "Flow by hour period")
-
-
-As such, in order to optimize the marketing effort, both the activity time plan and team dimensioning should be based on weekday/hour flow data.
+ 
+***
+ 
+In order to optimize the marketing effort, both the activity time plan and team dimensioning should be based on weekday/hour flow data.
 
 To better show the idea, in the following it we will go through 3 case studies, one per each objective. The idea is to replicate this analysis for each of the above-mentioned MTA stations.
 
@@ -88,7 +94,7 @@ To better show the idea, in the following it we will go through 3 case studies, 
 
 # Case studies
 
-## Maximizing Participation – 116th St. Case Study
+## CASE STUDY 1: Maximizing Participation – 116th St.
 As first case, we will focus 116th ST station, which is where Columbia university is located, as an example of station where to where to pursue gala participation.
 
 As shown in the below graph, the flow of people is concentrated in the mid-week days and in the late afternoons. This is when we should intensify the marketing activity, dimensioning the team accordingly.
@@ -96,7 +102,7 @@ As shown in the below graph, the flow of people is concentrated in the mid-week 
 
 
 
-FOSTERING FUNDRISING: 86th ST (LINE:456 station) STUDY CASE
+## CASE STUDY 2: Reaching potential contributors: 86th ST (LINE:456 station)
 From the fundraising list of stations, the 86th ST will be presented as case study. As shown in the below figure, also in this case the traffic is very dependent on day of the week and time of the day.
 
 
@@ -104,6 +110,7 @@ From the fundraising list of stations, the 86th ST will be presented as case stu
 However this station has a further complexity: while the 116th station only have 1 single control area, i.e. one group of turnstiles through which all the flow must converge regardless the direction, in the 116th case there are 2 control areas, one for each direction of the subway. We consider this is of crucial importance since the 2 control areas leads to different entries and exits of the subway. You need to know which one you want to focus the activity depending on the week day and the time of the day given that, as shown in the below figures, the 2 control areas have a different time distribution of the flow. 
 
 
+## CASE STUDY 3: Building awareness: 86th ST (LINE:456 station)
 As third case study, 42 ST Port Auth is presented.
 This is a huge commuting hub which gives us the opportunity to reach many people and to throw a window also outside the city. The ideal situation to have exposure to a huge number of people, so gaining awareness.
 
@@ -114,7 +121,7 @@ In the following figures, to keep the presentation neat, we just reported the fl
 
 
 
-Conclusions and next steps
+# Conclusions and next steps
 
 In order to maximize the effectiveness of a marketing plan, it is important to frame the activity 
 according to:
@@ -128,7 +135,3 @@ As for the next steps,  we suggest to bring the activity one step further,  desi
 
 We would also recommend increasing size of data to broaden time series making more robust from a statistical stand point
 
-
-
-
-Regardless the objective, by analyzing the 
