@@ -157,7 +157,7 @@ The first figure amonge the below ones represents the overall flow in the statio
 In order to maximize the effectiveness of a marketing plan, it is important to frame the activity 
 according to:
 1)	The strategic objective to reach the most appropriate target
-2)	Maximum exposure, extracted from data
+2)	Look for maximum exposure, basing the activity on flow data
 
 As such, we looked for 3 different lists of MTA stations, one for each of our strategic objective.
 For each of the selected station we then analysed the time distribution of the flow in order to find out the days of the week and time of the day in which the flow was maximum. This analysis was taken at the lowest space granularity possible, i.e. at the control area level demonstrating that the follow is not the same across them. This is important since different control area are 
