@@ -119,13 +119,18 @@ From the fundraising list of stations, the 86th ST will be presented as case stu
 
 ***
 
-![alt-text-1](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/86%20by%20ca.png "86th by ca") 
+![alt-text-1](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/86%20overall.png "86th by ca") 
 
 ***
 
 
 However, this station has a further complexity: while the 116th station only have 1 single control area, i.e. one group of turnstiles through which all the flow must converge regardless the direction, in the 116th case there are 2 control areas, one for each direction of the subway. We believe this is of crucial importance since the 2 control areas leads to different entries and exits of the subway. You need to know which one you want to focus the activity depending on the week day and the time of the day given that, as shown in the below figures, the 2 control areas have a different time distribution of the flow. 
 
+***
+
+![alt-text-1](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/86%20by%20ca.png "86th by ca") 
+
+***
 
 ## CASE STUDY 3: Building awareness: 42 ST Port Auth 
 As third case study, 42 ST Port Auth is presented.
