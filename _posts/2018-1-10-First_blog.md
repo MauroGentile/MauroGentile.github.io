@@ -50,7 +50,7 @@ We ended up with the following list:
 
 
 
-## Obective 2: reaching potential contributors to the organization 
+## Obective 3: reaching potential contributors to the organization 
 We looked at the census data and picked up zip codes of the wealthiest areas in NYC and tech companies, mapping them in the below figure
 
 
