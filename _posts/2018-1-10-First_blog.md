@@ -107,15 +107,15 @@ From the fundraising list of stations, the 86th ST will be presented as case stu
 
 ***
 
-![alt-text-1](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/86%20ca%201.png "title-1") ![alt-text-2](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/86%20ca%202.png "title-2")
- 
+![alt-text-1](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/86%20by%20ca.png "86th by ca") 
+
 ***
 
 
 However this station has a further complexity: while the 116th station only have 1 single control area, i.e. one group of turnstiles through which all the flow must converge regardless the direction, in the 116th case there are 2 control areas, one for each direction of the subway. We consider this is of crucial importance since the 2 control areas leads to different entries and exits of the subway. You need to know which one you want to focus the activity depending on the week day and the time of the day given that, as shown in the below figures, the 2 control areas have a different time distribution of the flow. 
 
 
-## CASE STUDY 3: Building awareness: 86th ST (LINE:456 station)
+## CASE STUDY 3: Building awareness: 42 ST Port Auth 
 As third case study, 42 ST Port Auth is presented.
 This is a huge commuting hub which gives us the opportunity to reach many people and to throw a window also outside the city. The ideal situation to have exposure to a huge number of people, so gaining awareness.
 
@@ -124,6 +124,12 @@ Also in cases of huge hubs like this, traffic is really dependent not only on ti
 
 In the following figures, to keep the presentation neat, we just reported the flow through 2 of the 5 possible control areas at the station.
 
+
+***
+
+![alt-text-1](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/42%20by%20ca.png "86th by ca") 
+
+***
 
 
 # Conclusions and next steps
