@@ -16,7 +16,9 @@ We have looked at the MTA turnstile data combined with other data sources, like 
 
 We ended up recommending different lists of MTA stations where to concentrate the marketing effort, depending on strategic goal.
 
-We then looked at the time distribution of passengers’ flow at each single station we recommended, noticing that such a flow is not uniform in time, neither by weekday nor by hour ranges.  
+Once defined where to implement the street activity, we had a look to when to do so.
+
+We therefore looked at the time distribution of passengers’ flow at each single station we recommended, noticing that such a flow is not uniform in time, neither by weekday nor by hour ranges.  
 
 We also noticed that within the same station, turnstiles belonging to different control areas, which are generally associated with different bounds in the station, have a completely different time distribution of flow. 
 
