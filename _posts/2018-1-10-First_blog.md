@@ -10,7 +10,7 @@ As first assignment at Metis, we developed a set of recommendations for Women Ye
 My team and I distinguished the project goal in three main objectives:
 1. building awareness 
 2. getting attendees for Gala 
-3. reaching potential contributors to the organization.
+3. reaching potential contributors to the organization
 
 We have looked at the MTA turnstile data combined with other data sources, like census data, with the purpose of providing WYWT marketing team with insights to plan street team activity focused on participation in the gala in the short term, and awareness and fundraising in the long term.
 
