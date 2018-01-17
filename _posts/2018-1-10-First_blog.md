@@ -72,7 +72,7 @@ The 3 above-mentioned objectives overlap each other meaning that, for instance, 
 
 ***
 
-![alt text](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/Picture1.png "Tech and uni")
+![alt text](https://github.com/MauroGentile/MauroGentile.github.io/raw/master/images/Benson/Picture1.png "Tech and uni")
 
 ***
 
@@ -81,13 +81,13 @@ Regardless the objective, by analysing the MTA data, not unsurprisingly, we soon
 
 ***
 
-![alt text](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/by%20day.png "Flow by day")
+![alt text](https://github.com/MauroGentile/MauroGentile.github.io/raw/master/images/Benson/by%20day.png "Flow by day")
 
 ***
 
 ***
 
-![alt text](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/by%20hour.png
+![alt text](https://github.com/MauroGentile/MauroGentile.github.io/raw/master/images/Benson/by%20hour.png
  "Flow by hour period")
  
 ***
