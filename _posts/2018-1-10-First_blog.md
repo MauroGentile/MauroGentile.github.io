@@ -41,7 +41,7 @@ After data cleansing aimed to treat duplicates, outliers and errors and to manag
 
 ***
 
-![alt text](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/top%2010%20stations.png "Top 10 trafficked MTA stations in NYC")
+![alt text](https://github.com/MauroGentile/MauroGentile.github.io/raw/master/images/Benson/top%2010%20stations.png "Top 10 trafficked MTA stations in NYC")
 
 ***
 
@@ -108,7 +108,7 @@ As shown in the below graph, the flow of people is concentrated in the mid-week 
 
 ***
 
-![alt text](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/116%20th%20over%20all.png "116th overall flow")
+![alt text](https://github.com/MauroGentile/MauroGentile.github.io/raw/master/images/Benson/116%20th%20over%20all.png "116th overall flow")
  
 ***
 
@@ -119,7 +119,7 @@ From the fundraising list of stations, the 86th ST will be presented as case stu
 
 ***
 
-![alt-text-1](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/86%20overall.png "86th by ca") 
+![alt-text-1](https://github.com/MauroGentile/MauroGentile.github.io/raw/master/images/Benson/86%20overall.png "86th by ca") 
 
 ***
 
@@ -128,7 +128,7 @@ However, this station has a further complexity: while the 116th station only hav
 
 ***
 
-![alt-text-1](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/86%20by%20ca.png "86th by ca 2") 
+![alt-text-1](https://github.com/MauroGentile/MauroGentile.github.io/raw/master/images/Benson/86%20by%20ca.png "86th by ca 2") 
 
 ***
 
@@ -141,13 +141,13 @@ The first figure amonge the below ones represents the overall flow in the statio
 
 ***
 
-![alt-text-1](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/46%20overall.png "86th by ca 3") 
+![alt-text-1](https://github.com/MauroGentile/MauroGentile.github.io/raw/master/images/Benson/46%20overall.png "86th by ca 3") 
 
 ***
 
 ***
 
-![alt-text-1](https://github.com/MauroGentile/MauroGentile.github.io/blob/master/images/Benson/42%20by%20ca.png "86th by ca 4") 
+![alt-text-1](https://github.com/MauroGentile/MauroGentile.github.io/raw/master/images/Benson/42%20by%20ca.png "86th by ca 4") 
 
 ***
 
